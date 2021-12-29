@@ -1,5 +1,5 @@
 baseURL = "/" # change this to the name of your new repository
-title = "Catalyst Swarm"
+title = "Catalyst-Swarm"
 
 enableRobotsTXT = true
 
