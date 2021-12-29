@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Want Support?
+    url: "https://github.com/PardusEidolon/example.github.io/discussions" # youll want to change this link to a different discussion repo here
+    about: Please ask and answer questions here.
